@@ -3,7 +3,7 @@
 Un reproductor de música de escritorio construido con HTML, Tailwind CSS, JavaScript y empaquetado con Electron.
 
 ## Vista previa
-<img width="1000" alt="muestra1" src="https://github.com/user-attachments/assets/a674f143-b907-4826-9f3b-d6d110e7a006" />
+<img width="1000" height="611" alt="muestra1" src="https://github.com/user-attachments/assets/b94f48ff-e59e-4bee-8da5-7f4530c06e6e" />
 
 ## Características
 
